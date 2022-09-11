@@ -1,0 +1,28 @@
+indent=4, tab=4, column width=120, CR/LF, codepage=ASCII
+ Original filename: OMFOO_SOURCECODE_LICENSE.TXT
+ Copyright (C) 2022 David Miller. [OmfooGuy@gmail.com]
+ This file is part of the Omfoo Source Code Project.
+
+ This software is provided 'as-is', without any express or implied
+ warranty. In no event will the author be held liable for any damages
+ arising from the use of this software.
+
+ Permission is granted to anyone to use this software for any purpose,
+ including commercial applications, and to alter it and redistribute it
+ freely, subject to the following restrictions:
+
+ 1. The origin of this software must not be misrepresented; you must not
+    claim that you wrote the original software. If you use this software in
+    a product, an acknowledgment in the product documentation is required.
+ 2. Altered source versions must be plainly marked as such, and must not
+    be misrepresented as being the original software.
+ 3. This software is based on Microsoft's Component Object Model. And as
+    such each object is assigned a globally unique 128-bit identifier (IID).
+    You must not re-use any of the original IIDs in your derivative works.
+    This package includes a command-line utility called UUIDXCHG.EXE that
+    will automatically replace all __declspec(uuid) attributes in a C++
+    header for you.
+ 4. The name Omfoo(TM) is a common law trademark of David Miller. You cannot
+    use the name Omfoo(TM) in derivative works except to satisfy the
+    acknowledgment in restriction #1 (above).
+ 5. This notice may not be removed or altered from any source distribution.
