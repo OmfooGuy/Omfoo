@@ -1,0 +1,15 @@
+indent=4, tab=4, column width=120, CR/LF, codepage=ASCII
+Original filename: OMFOO_DLL_USER_AGREEMENT.TXT
+Copyright (C) 2022 David Miller.
+
+Omfoo.dll is a free Windows dynamic-link library (DLL) for reading Open Media Framework (OMF) files.
+There is a 32-bit version and a 64-bit version. They are provided 'as-is', without any express or implied warranty.
+In no event will the author be held liable for any damages arising from the use of these DLLs.
+Permission is granted to anyone to use Omfoo.dll for any purpose, including commercial applications,
+subject to the following restrictions:
+
+1. The origin of this DLL must not be misrepresented; you must not claim that you wrote the original software.
+2. If you use this DLL in any product you must include this license.
+
+
+
