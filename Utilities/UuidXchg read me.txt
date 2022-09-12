@@ -1,0 +1,9 @@
+UuidXchg v1.0 Copyright (C) 2022 David Miller
+These developer's utilities are part of the Omfoo Source Code Project.
+You only need these of you are compiling your own version of Omfoo.dll.
+There's a GUI version and a command-line version.
+They call CoCreateGuid() to update each and every __declspec(uuid) attribute in a C++ header file.
+The update is done in place, so it requires write access to the file.
+
+
+

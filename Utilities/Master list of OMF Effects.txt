@@ -1,0 +1,17 @@
+omfi:effect:AudioMultiBandEQ
+omfi:effect:AudioSuitePlugIn
+omfi:effect:MonoAudioGain
+omfi:effect:MonoAudioMixdown
+omfi:effect:MonoAudioPan
+omfi:effect:SimpleMonoAudioDissolve
+omfi:effect:SimpleStereoAudioDissoolve		// not a typo!
+omfi:effect:SimpleVideoDissolve
+omfi:effect:SMPTEVideoWipe
+omfi:effect:StereoAudioGain
+omfi:effect:StereoAudioDissolve
+omfi:effect:VideoFadeToBlack
+omfi:effect:VideoFrameMask
+omfi:effect:VideoRepeat
+omfi:effect:VideoSpeedControl
+omfi:effect:VideoStrobeEffect
+omfi:effect:Unknown

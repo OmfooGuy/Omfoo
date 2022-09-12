@@ -1,0 +1,5 @@
+OmfDisasmGui v1.0 Copyright (C) 2022 David Miller
+This developer's utility is part of the Omfoo Source Code Project.
+This program takes an OMF file as its input (read-only), and generates an ASCII text report as its output.
+See the examples in the Examples folder.
+
